@@ -1,7 +1,6 @@
+![Alt text](/Host_a_Static_Website_on_AWS.png)
 # Host a Static Website on AWS
-
 ## Project Overview
-
 This project demonstrates how to host a static HTML web app on Amazon Web Services (AWS) utilizing various resources such as EC2 instances, VPC, Application Load Balancer, Auto Scaling Groups, Route 53, and more. The objective is to configure a highly available, scalable, and fault-tolerant architecture for hosting a simple static website.
 
 ## Architecture Overview
